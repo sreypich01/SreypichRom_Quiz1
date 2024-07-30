@@ -6,3 +6,9 @@ h1{
 img{
     width: 100%;
 }
+#active{
+    font-weight: bolder;
+    color: orange;
+    background: teal;
+
+}
